@@ -63,3 +63,7 @@ build-ios
 build-android
 
 Assets/Vuplex*
+
+# Keep around for Google VR SDK
+!InstantPreview.apk
+!GVRVideoPlayer.unitypackage
